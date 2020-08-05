@@ -1,1 +1,1 @@
-# virtual-internship-guide
+# Remote Internship Guide
