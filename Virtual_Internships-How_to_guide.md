@@ -61,3 +61,4 @@ Even if your junior developer is unable to contribute directly, they&#39;ll stil
 Getting started: The First Day
 
 If possible, if you are located in the same city, it can be incredibly helpful to meet face to face to run through the tools. This does not have to be the whole team, a one person touch point is just as helpful.
+
