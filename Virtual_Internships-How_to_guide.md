@@ -29,6 +29,7 @@ Scheduling time for periodic optional social calls is pretty good to keep a sens
 
 
 **CHECKING IN**
+
 In a virtual and remote environment, it can be even more nerve-wracking for junior developers to reach out and ask for help from their managers and mentors. However, a virtual wall can be created if junior developers assume everyone is unreachable or are hesitant to reach out to not cause inconvenience to their mentors and managers. This prolongs the duration of their blockers not being resolved.
 
 "My #1 recommendation for remote internships and remote teams in general is making sure everyone feels comfortable asking for help. It's much harder to see if someone is struggling when remote and it is often scary asking for help especially when you first start." - **Damian Karzon, Work180**
@@ -77,7 +78,7 @@ Even if your junior developer is unable to contribute directly, they&#39;ll stil
 - Send through any helpful resources you have on your products or your tech stack prior to their first day. Our junior developers are all eager learners and would value the opportunity to become familiar with your products and tech stack before they start
 - Prepare a checklist of things you would like your junior developers to complete each week of the internship. This will be helpful to measure progress and refer to in your one on one check ins.
 
-Getting started: The First Day
+**Getting started: The First Day**
 
 If possible, if you are located in the same city, it can be incredibly helpful to meet face to face to run through the tools. This does not have to be the whole team, a one person touch point is just as helpful.
 
