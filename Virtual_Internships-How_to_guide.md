@@ -22,7 +22,7 @@ For example, our junior developers were tasked to perform a review on an existin
 
 It&#39;s also important to set clear expectations around communication. If your team has a default mode of communication, make sure interns are well informed about what channels to use and when.
 
-“The biggest thing for me is the concept of don't take the office home to work remotely, not all practices that happen in the office translate to working remotely” - **Emmett Memery, Mallpup**
+&quot;The biggest thing for me is the concept of don&#39;t take the office home to work remotely, not all practices that happen in the office translate to working remotely&quot; - **Emmett Memery,** [**Mallpup**](https://mallpup.com/)
 
 Embrace remote working with practices that enable better remote working, reduce meetings by finding better ways to communicate, and find interrupted spaces of time; it's an opportunity to work better.
 Scheduling time for periodic optional social calls is pretty good to keep a sense of feeling connected and learning about each other. We recommend keeping these more social and away from work conversations if possible.
@@ -46,7 +46,7 @@ In a virtual and remote environment, it can be even more nerve-wracking for juni
 
 **INTEGRATION &amp; INVOLVEMENT**
 
-"Top tip when joining a remote team - be proactive about getting to know the members of your team” - **Alexander Cohen, Two Red Kites**
+&quot;Top tip when joining a remote team - be proactive about getting to know the members of your team&quot; - **Alexander Cohen,** [**Two Red Kites**](https://www.tworedkites.com/)
  
 Joining a remote team can be a daunting experience and an information overload when starting out. It’s important to take the time to get to know the folks on your team. I recommended setting up an open mic chat room like discord. This will allow you to casually chat between meetings and while working. If it’s appropriate for your organisation, why not play some music? even ask your team mates to take turns suggesting a song! 
  
@@ -64,7 +64,8 @@ Even if your junior developer is unable to contribute directly, they&#39;ll stil
 
 **PREBOARDING**
 
-"Onboarding is a team sport! In order to set your new intern up for success, touch base with the team to ensure they know how to provide support along the way" - **Stephanie Yeo, Codebots**
+quot;Onboarding is a team sport! In order to set your new intern up for success, touch base with the team to ensure they know how to provide support along the way&quot; - **Stephanie Yeo,** [**Codebots**](https://codebots.com/)
+
 
 
  Getting ready for your intern&#39;s upcoming arrival by ensuring you&#39;ve ticked off all the items below:
