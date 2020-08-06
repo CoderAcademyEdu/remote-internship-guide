@@ -31,6 +31,8 @@ Scheduling time for periodic optional social calls is pretty good to keep a sens
 **CHECKING IN**
 In a virtual and remote environment, it can be even more nerve-wracking for junior developers to reach out and ask for help from their managers and mentors. However, a virtual wall can be created if junior developers assume everyone is unreachable or are hesitant to reach out to not cause inconvenience to their mentors and managers. This prolongs the duration of their blockers not being resolved.
 
+"My #1 recommendation for remote internships and remote teams in general is making sure everyone feels comfortable asking for help. It's much harder to see if someone is struggling when remote and it is often scary asking for help especially when you first start." - **Damian Karzon, Work180**
+
  To avoid this, it&#39;s important to schedule time to check in regularly whether it&#39;s over a phone call or through instant messaging to find out what they&#39;re working on, what challenges they are having and how you can best support them.
 
 - **TIP:** We also recommend having a longer one on one catch up at the end of each week to hear how your junior developer is tracking on their goals, to celebrate any wins, resolve any challenges, discuss plans for next week and ask them about what they&#39;ve learned throughout the week.
