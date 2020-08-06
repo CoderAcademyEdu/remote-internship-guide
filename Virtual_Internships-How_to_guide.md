@@ -22,6 +22,12 @@ For example, our junior developers were tasked to perform a review on an existin
 
 It&#39;s also important to set clear expectations around communication. If your team has a default mode of communication, make sure interns are well informed about what channels to use and when.
 
+“The biggest thing for me is the concept of don't take the office home to work remotely, not all practices that happen in the office translate to working remotely” - **Emmett Memery, Mallpup**
+
+Embrace remote working with practices that enable better remote working, reduce meetings by finding better ways to communicate, and find interrupted spaces of time; it's an opportunity to work better.
+Scheduling time for periodic optional social calls is pretty good to keep a sense of feeling connected and learning about each other. We recommend keeping these more social and away from work conversations if possible.
+
+
 **CHECKING IN**
 In a virtual and remote environment, it can be even more nerve-wracking for junior developers to reach out and ask for help from their managers and mentors. However, a virtual wall can be created if junior developers assume everyone is unreachable or are hesitant to reach out to not cause inconvenience to their mentors and managers. This prolongs the duration of their blockers not being resolved.
 
@@ -36,6 +42,13 @@ In a virtual and remote environment, it can be even more nerve-wracking for juni
 - **TIP:** End with a recap and an action plan: Every meeting should end with a clear path forward. It&#39;s easy to misread situations and reactions on video calls, so it&#39;s important to conclude each meeting with a concise recounting of what was discussed and a list of each person&#39;s action items. That way, you give each person a chance to clarify any gray areas and make sure you&#39;re all on the same page.
 
 **INTEGRATION &amp; INVOLVEMENT**
+
+"Top tip when joining a remote team - be proactive about getting to know the members of your team” - **Alexander Cohen, Two Red Kites**
+ 
+Joining a remote team can be a daunting experience and an information overload when starting out. It’s important to take the time to get to know the folks on your team. I recommended setting up an open mic chat room like discord. This will allow you to casually chat between meetings and while working. If it’s appropriate for your organisation, why not play some music? even ask your team mates to take turns suggesting a song! 
+ 
+Being remote doesn’t mean being disconnected. We are still human after all, and connecting with your team mates will improve your job satisfaction, your performance and overall team cohesion. It’s also a great way to build up the relationships with the team members you’ll need to turn to for advise! 
+
 To deliver a sense of connection whilst working remotely, we recommend that you encourage your junior developers to get involved in all aspects of company life such as:
 
 - Attending team meetings
