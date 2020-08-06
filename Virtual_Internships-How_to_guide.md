@@ -64,7 +64,7 @@ Even if your junior developer is unable to contribute directly, they&#39;ll stil
 
 **PREBOARDING**
 
-quot; Onboarding is a team sport! In order to set your new intern up for success, touch base with the team to ensure they know how to provide support along the way&quot; - **Stephanie Yeo,** [**Codebots**](https://codebots.com/)
+&quot;Onboarding is a team sport! In order to set your new intern up for success, touch base with the team to ensure they know how to provide support along the way&quot; - **Stephanie Yeo,** [**Codebots**](https://codebots.com/)
 
 
 
