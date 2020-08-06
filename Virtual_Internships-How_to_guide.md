@@ -62,6 +62,7 @@ To deliver a sense of connection whilst working remotely, we recommend that you 
 Even if your junior developer is unable to contribute directly, they&#39;ll still benefit from attending these sessions as they&#39;ll be able to have a better understanding of how different roles within the organisation contribute to the wider business goals. It also helps your junior developers feel part of the team and it will also help your existing development team recognize the abilities of each junior developer.
 
 **PREBOARDING**
+"Onboarding is a team sport! In order to set your new intern up for success, touch base with the team to ensure they know how to provide support along the way" - **Stephanie Yeo, Codebots**
  Getting ready for your intern&#39;s upcoming arrival by ensuring you&#39;ve ticked off all the items below:
 
 - Ensure you have defined the projects that they will be working on or the work that needs to be done during the four weeks that they are with you
